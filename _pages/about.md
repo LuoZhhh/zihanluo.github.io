@@ -68,7 +68,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 [ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)
 
-Rui Yin\\*, **Zihan Luo**\\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
+Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:u-x6o8ySG0sC'></span></strong>
 - [Code](https://github.com/Rayin-saber/ViPal). 

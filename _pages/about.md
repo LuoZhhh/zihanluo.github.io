@@ -23,7 +23,7 @@ My research interests include graph representation learning and Large Language M
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NuerIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
+- *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NeurIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
 - *2023.09*: &nbsp;🎉🎉 Our paper on GNN debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 
 
 # 📝 Publications 

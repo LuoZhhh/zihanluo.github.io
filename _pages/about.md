@@ -62,7 +62,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2022</div><img src='images/ada-GNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Biomedical Informatics</div><img src='images/vipal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)
@@ -73,6 +73,17 @@ Rui Yin*, **Zihan Luo***, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bioinformatics</div><img src='images/virprenet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza A virus using all eight segments](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)
+
+Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  

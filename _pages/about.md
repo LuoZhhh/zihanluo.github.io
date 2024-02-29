@@ -1,7 +1,6 @@
 <img width="648" alt="image" src="https://github.com/LuoZhhh/luozhhh.github.io/assets/57443690/a80a0d48-ebff-4dd7-9614-a9582b8e0aa6">---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/

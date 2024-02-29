@@ -96,3 +96,6 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 - *2022.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.
 - *2020.09 - 2022.06*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Master. 
 - *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor. 
+
+# 💬 Invited Talks
+- *2023.11*, Paper Spotlight Sharing at [MLA 2023](https://www.lamda.nju.edu.cn/conf/mla23/index.html) in Nanjing, China. 

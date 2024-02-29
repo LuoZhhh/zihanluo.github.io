@@ -91,7 +91,8 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 # 🎖 Honors and Awards
 - Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  
 - Huawei Scholarship, *2022.06*. 
-- Tencent Scholarship, *2022.03*. 
+- Tencent Scholarship, *2022.03*.
+- Finalist Award at The Mathematical Contest in Modeling *2019*.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.

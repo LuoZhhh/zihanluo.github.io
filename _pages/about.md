@@ -27,7 +27,7 @@ My research interest includes graph data mining and Large Language Models (LLM).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cross-links Matter for Link Prediction: Rethinking the Debiased GNN from a Data Perspective](https://openreview.net/pdf?id=sJDkwMVqb9)
@@ -39,7 +39,7 @@ My research interest includes graph data mining and Large Language Models (LLM).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/xGCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction](https://dl.acm.org/doi/10.1145/3543507.3583340)
@@ -51,7 +51,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2022</div><img src='images/ada-GNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ada-GNN: Adapting to Local Patterns for Improving Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3488560.3498460)

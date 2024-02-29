@@ -35,7 +35,7 @@ My research interests include graph representation learning and Large Language M
 
 **Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Xing Xie, Hai Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:IjCSPb-OGe4C'></span></strong>
 - [Code](https://github.com/CGCL-codes/Cross-links-Bias). 
 </div>
 </div>
@@ -47,7 +47,7 @@ My research interests include graph representation learning and Large Language M
 
 Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi Wu, Chaozhuo Li, Xing Xie, Hai Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:UeHWp8X0CEIC'></span></strong>
 - [Code](https://github.com/CGCL-codes/XGCN_library). 
 </div>
 </div>
@@ -59,7 +59,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 **Zihan Luo**, Jianxun Lian, Hong Huang, Xing Xie, Hai Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
@@ -70,8 +70,20 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 Rui Yin, **Zihan Luo**, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:u-x6o8ySG0sC'></span></strong>
 - [Code](https://github.com/Rayin-saber/ViPal). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Current Genomics</div><img src='images/virprenet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the lethality of human-adapted coronavirus through alignment-free machine learning approaches using genomic sequences](https://www.biorxiv.org/content/biorxiv/early/2020/07/31/2020.07.31.230904.full.pdf)
+
+Rui Yin, **Zihan Luo**, Chee Keong Kwoh
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:d1gkVwhDpl0C'></span></strong>
+- [Code](https://github.com/Rayin-saber/Alignment-free-lethality-prediction-of-coronavirus). 
 </div>
 </div>
 
@@ -83,7 +95,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 
 Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:2osOgNQ5qMEC'></span></strong>
 - [Code](https://github.com/Rayin-saber/VirPreNet). 
 </div>
 </div>

@@ -62,6 +62,17 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2022</div><img src='images/ada-GNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ViPal: A Framework for Virulence Prediction of Influenza Viruses with Prior Viral Knowledge Using Genomic Sequences](https://www.biorxiv.org/content/biorxiv/early/2022/03/27/2022.03.24.485635.full.pdf)
+
+Rui Yin*, **Zihan Luo***, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - Academic Scholarship, *2020.09*, *2021.09*, *2022.09*, *2023.09*.  

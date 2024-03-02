@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Zihan Luo, a CS Ph.D. candidate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/). I am fortunate to be supervised by Professor [Hong Huang](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Before that, I received my Bachelor degree of Electronic Engineering from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2020.
+Hello, I am Zihan Luo, a CS Ph.D. candidate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST). I am fortunate to be supervised by Professor [Hong Huang](https://faculty.hust.edu.cn/honghuang/en/index.htm) and Senior Researcher [Jianxun Lian](https://www.microsoft.com/en-us/research/people/jialia/). Before that, I received my Bachelor degree in Electronic Engineering from HUST in 2020.
 
-My research interests include graph representation learning and Large Language Models (LLM). I have published several papers at the top international AI conferences and journals with total google scholar citations <a href='https://scholar.google.com/citations?user=JWUJkawAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include graph representation learning and Large Language Models (LLM). I have published several papers at the top international AI conferences and journals with total Google Scholar citations 20+.
 
 
 # 🔥 News
@@ -36,7 +36,8 @@ My research interests include graph representation learning and Large Language M
 **Zihan Luo**, Hong Huang, Jianxun Lian, Xiran Song, Xing Xie, Hai Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:IjCSPb-OGe4C'></span></strong>
-- [Code](https://github.com/CGCL-codes/Cross-links-Bias). 
+- [Code](https://github.com/CGCL-codes/Cross-links-Bias).
+- A framework on investigating and mitigating the bias on Cross-links from a data augmentation perspective.
 </div>
 </div>
 
@@ -48,7 +49,8 @@ My research interests include graph representation learning and Large Language M
 Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi Wu, Chaozhuo Li, Xing Xie, Hai Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:UeHWp8X0CEIC'></span></strong>
-- [Code](https://github.com/CGCL-codes/XGCN_library). 
+- [Code](https://github.com/CGCL-codes/XGCN_library).
+- A novel GNN paradigm for large-scale social recommendation.
 </div>
 </div>
 
@@ -60,6 +62,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 **Zihan Luo**, Jianxun Lian, Hong Huang, Xing Xie, Hai Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:qjMakFHDy7sC'></span></strong>
+- A novel GNN training framework for capturing graph local patterns while preserving global information.
 </div>
 </div>
 
@@ -71,7 +74,8 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:u-x6o8ySG0sC'></span></strong>
-- [Code](https://github.com/Rayin-saber/ViPal). 
+- [Code](https://github.com/Rayin-saber/ViPal).
+- Utilizing human prior knowledge for virulence prediction with posterior regularization.
 </div>
 </div>
 
@@ -83,7 +87,8 @@ Rui Yin\*, **Zihan Luo**\*, Pei Zhuang, Chee Keong Kwoh, Zhuoyi Lin
 Rui Yin, **Zihan Luo**, Chee Keong Kwoh
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:d1gkVwhDpl0C'></span></strong>
-- [Code](https://github.com/Rayin-saber/Alignment-free-lethality-prediction-of-coronavirus). 
+- [Code](https://github.com/Rayin-saber/Alignment-free-lethality-prediction-of-coronavirus).
+- A simple framework for utilizing deep neural networks for coronavirus lethality prediction.
 </div>
 </div>
 
@@ -96,7 +101,8 @@ Rui Yin, **Zihan Luo**, Chee Keong Kwoh
 Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:2osOgNQ5qMEC'></span></strong>
-- [Code](https://github.com/Rayin-saber/VirPreNet). 
+- [Code](https://github.com/Rayin-saber/VirPreNet).
+- A framework for utilizing deep neural networks for virulence prediction of influenza A virus.
 </div>
 </div>
 

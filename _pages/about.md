@@ -23,10 +23,24 @@ My research interests include graph representation learning and Large Language M
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Our paper on empowering LLMs with graph reasoning capability [GraphInstruct](https://arxiv.org/abs/2403.04483) is released on Arxiv.
 - *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NeurIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
 - *2023.09*: &nbsp;🎉🎉 Our paper on GNN debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/graphinstruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability](https://arxiv.org/abs/2403.04483)
+
+**Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:IjCSPb-OGe4C'></span></strong>
+- A comprehensive benchmark GraphInstruct on enhancing and improving the graph understanding and reasoning capability.
+- [Code](https://github.com/CGCL-codes/GraphInstruct).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

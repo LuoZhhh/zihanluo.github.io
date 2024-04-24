@@ -77,6 +77,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:qjMakFHDy7sC'></span></strong>
 - A novel GNN training framework for capturing graph local patterns while preserving global information.
+- [Code](https://github.com/LuoZhhh/Ada-GNN).
 </div>
 </div>
 

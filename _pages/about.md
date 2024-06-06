@@ -50,7 +50,7 @@ My research interests include graph representation learning and Large Language M
 
 **Zihan Luo**, Xiran Song, Hong Huang, Jianxun Lian, Chenhao Zhang, Jinqi Jiang, Xing Xie, Hai Jin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:IjCSPb-OGe4C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:Tyk-4Ss8FVUC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - A comprehensive benchmark GraphInstruct on enhancing and improving the graph understanding and reasoning capability.
 - [Code](https://github.com/CGCL-codes/GraphInstruct).
 </div>

@@ -36,7 +36,7 @@ My research interests include graph representation learning and Large Language M
 
 **Zihan Luo**, Hong Huang, Yongkang Zhou, Jiping Zhang, Nuo Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
 - A node-injection-based fairness attack framework on GNNs.
 - [Code](https://github.com/LuoZhhh/NIFA).
 </div>

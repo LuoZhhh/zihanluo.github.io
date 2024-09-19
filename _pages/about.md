@@ -143,7 +143,12 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Ph.D. Candidate.
 - *2020.09 - 2022.06*, [School of Computer Science and Technology](https://cs.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Master. 
-- *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor. 
+- *2016.09 - 2020.06*, [School of Electronic Information and Communication](https://ei.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/), Bachelor.
+
+# 💻 Internships
+- *2024.09 - Now*, [Zhipu AI](https://www.zhipuai.cn/), Beijing, China.
+  - Intern in LLM Alignment
+  - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
 
 # 💬 Invited Talks
 - *2023.11*, Paper Spotlight Sharing at [MLA 2023 Conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html) in Nanjing, China.

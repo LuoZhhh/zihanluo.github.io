@@ -22,18 +22,19 @@ My research interests include graph representation learning and Large Language M
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 [NIFA](https://arxiv.org/abs/2406.03052) is accepted by NeurIPS 2024, accept rate 25.8%. See you in Vancouver!
 - *2024.06*: &nbsp;🎉🎉 Our paper on launching GNN fairness attacks [NIFA](https://arxiv.org/abs/2406.03052) is released on Arxiv.
 - *2024.03*: &nbsp;🎉🎉 Our paper on empowering LLMs with graph reasoning capability [GraphInstruct](https://arxiv.org/abs/2403.04483) is released on Arxiv.
 - *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NeurIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
 - *2023.09*: &nbsp;🎉🎉 Our paper on GNN debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/NIFA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/NIFA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks via Node Injections](https://arxiv.org/abs/2406.03052)
 
-**Zihan Luo**, Hong Huang, Yongkang Zhou, Jiping Zhang, Nuo Chen
+**Zihan Luo**, Hong Huang, Yongkang Zhou, Jiping Zhang, Nuo Chen, Hai Jin
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
 - A node-injection-based fairness attack framework on GNNs.

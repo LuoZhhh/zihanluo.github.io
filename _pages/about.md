@@ -148,7 +148,7 @@ Rui Yin, **Zihan Luo**, Pei Zhuang, Zhuoyi Lin, Chee Keong Kwoh
 
 # 💻 Internships
 - *2024.09 - Now*, [Zhipu AI](https://www.zhipuai.cn/), Beijing, China.
-  - Intern in LLM Alignment
+  - Internship on LLM Alignment
   - Mentor: [Zhenyu Hou](https://scholar.google.com/citations?user=44W9SfwAAAAJ)
 
 # 💬 Invited Talks

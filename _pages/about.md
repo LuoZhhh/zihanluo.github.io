@@ -22,8 +22,8 @@ My research interests mainly include graph data mining, especially on topics lik
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Our paper on GNN hybrid fairness is accepted by KDD 2025, accept rate 19%. See you in Toronto!
 - *2024.09*: &nbsp;🎉🎉 [NIFA](https://arxiv.org/abs/2406.03052) is accepted by NeurIPS 2024, accept rate 25.8%. See you in Vancouver!
-- *2024.06*: &nbsp;🎉🎉 Our paper on launching GNN fairness attacks [NIFA](https://arxiv.org/abs/2406.03052) is released on Arxiv.
 - *2024.03*: &nbsp;🎉🎉 Our paper on empowering LLMs with graph reasoning capability [GraphInstruct](https://arxiv.org/abs/2403.04483) is released on Arxiv.
 - *2023.11*: &nbsp;🎉🎉 I am invited to give a spotlight sharing for our NeurIPS 2023 paper at [MLA 2023 conference](https://www.lamda.nju.edu.cn/conf/mla23/index.html). 
 - *2023.09*: &nbsp;🎉🎉 Our paper on GNN debias is accepted by [NeurIPS 2023](https://neurips.cc/), accept rate 26.1%. 

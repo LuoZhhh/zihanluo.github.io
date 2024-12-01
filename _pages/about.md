@@ -78,7 +78,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:UeHWp8X0CEIC'></span></strong>
 - A novel GNN paradigm for large-scale social recommendation.
-- [Code](https://github.com/CGCL-codes/XGCN_library).
+- [Code](https://github.com/CGCL-codes/XGCN_library) | [Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw).
 </div>
 </div>
 

@@ -38,7 +38,7 @@ My research interests mainly include graph data mining, especially on topics lik
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:W7OEmFMy1HYC'></span></strong>
 - A node-injection-based fairness attack framework on GNNs.
-- [Code](https://github.com/LuoZhhh/NIFA) &vert; [Vedio](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084).
+- [Code](https://github.com/LuoZhhh/NIFA) \| [Vedio](https://www.bilibili.com/video/BV1i5UQYNEeX/?share_source=copy_web&vd_source=9196fa9a82ed33188b75c84264f0f084).
 </div>
 </div>
 
@@ -78,7 +78,7 @@ Xiran Song, Jianxun Lian, Hong Huang, **Zihan Luo**, Wei Zhou, Xue Lin, Mingqi W
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JWUJkawAAAAJ&citation_for_view=JWUJkawAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='JWUJkawAAAAJ:UeHWp8X0CEIC'></span></strong>
 - A novel GNN paradigm for large-scale social recommendation.
-- [Code](https://github.com/CGCL-codes/XGCN_library) &vert; [Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw).
+- [Code](https://github.com/CGCL-codes/XGCN_library) \| [Youtube](https://www.youtube.com/watch?v=8yedOmd_3Fw).
 </div>
 </div>
 
